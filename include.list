@@ -1,3 +1,5 @@
 .github/
 .github/workflows/
-.github/workflows/**
+.github/workflows/rebase.yaml
+.github/workflows/release.yaml
+.github/workflows/validate.yaml
