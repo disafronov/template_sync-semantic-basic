@@ -1,6 +1,7 @@
 disafronov/get-ansible-changed-inventories
 disafronov/get-flux2-directories
 disafronov/nginx-http2https-redirect
+disafronov/python-logging-objects-with-schema
 disafronov/run-ansible-inventory
 disafronov/semantic-docker-template
 disafronov/semantic-shell-template
