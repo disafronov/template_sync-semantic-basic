@@ -1,3 +1,5 @@
+disafronov/ansible_project-template
+disafronov/ansible_role-template
 disafronov/get-ansible-changed-inventories
 disafronov/get-flux2-directories
 disafronov/nginx-http2https-redirect
