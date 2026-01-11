@@ -2,6 +2,7 @@ disafronov/ansible_project-template
 disafronov/ansible_role-template
 disafronov/get-ansible-changed-inventories
 disafronov/get-flux2-directories
+disafronov/local-test
 disafronov/nginx-http2https-redirect
 disafronov/python-logging-objects-with-schema
 disafronov/run-ansible-inventory
