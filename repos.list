@@ -8,4 +8,5 @@ disafronov/python-logging-objects-with-schema
 disafronov/run-ansible-inventory
 disafronov/semantic-docker-template
 disafronov/semantic-shell-template
+disafronov/template_sync-template
 disafronov/upgrade-flux2-pr
