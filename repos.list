@@ -9,4 +9,5 @@ disafronov/run-ansible-inventory
 disafronov/semantic-docker-template
 disafronov/semantic-shell-template
 disafronov/template_sync-template
+disafronov/update_lists-template
 disafronov/upgrade-flux2-pr
