@@ -1,3 +1,4 @@
 .github/
 .github/workflows/
 .github/workflows/semantic.yaml
+.github/workflows/assign-pr.yml
