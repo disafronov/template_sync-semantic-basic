@@ -2,3 +2,4 @@
 .github/workflows/
 .github/workflows/semantic.yaml
 .github/workflows/assign-pr.yml
+.github/workflows/force-release-pr.yml
