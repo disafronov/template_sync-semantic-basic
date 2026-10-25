@@ -1,9 +1,14 @@
 disafronov/ansible_project-template
 disafronov/ansible_role-template
+disafronov/django-telegram-q2
+disafronov/find-latest-tag
 disafronov/get-ansible-changed-inventories
 disafronov/get-flux2-directories
 disafronov/local-test
 disafronov/nginx-http2https-redirect
+disafronov/omniroute-hybrid-setup
+disafronov/opencode-memoir
+disafronov/ptrace-ism
 disafronov/python-logging-objects-with-schema
 disafronov/run-ansible-inventory
 disafronov/semantic-docker-template
