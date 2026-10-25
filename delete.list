@@ -4,3 +4,6 @@
 .github/workflows/semantic.yaml
 .github/workflows/assign-pr.yaml
 .github/workflows/force-release-pr.yaml
+.github/workflows/rebase.yml
+.github/workflows/release.yml
+.github/workflows/validate.yml
